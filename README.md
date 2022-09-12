@@ -12,7 +12,7 @@ You can find more info about TELEGRAM API KEY [here](https://tutorial.cytron.io/
 - Bot interact with human providing two options: /start and /nft
 - If /nft it's choosen, bot will generate an NFT contract using thentic API
 - Example bellow:
-  ![image](./bot-screenshot.PNG)
+![image](./bot-screenshot.PNG)
 
 # Future features
 
