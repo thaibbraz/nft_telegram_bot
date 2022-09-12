@@ -3,8 +3,6 @@ import requests
 import keys
 
 
-
-
 print('Starting up bot...')
 
 # Lets us use the /start command
@@ -13,7 +11,7 @@ def start_command(update, context):
 
 # Lets us use the /help command
 def help_command(update, context):
-    update.message.reply_text('Try typing anything and I will do my best to respond!')
+    update.message.reply_text('You have two options: /start or /nft')
 
 # Lets us use the /nft command
 def nft_command(update, context):
