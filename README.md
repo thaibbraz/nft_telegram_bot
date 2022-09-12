@@ -1,6 +1,11 @@
 # NFT telegram bot
 
-In order to your App to run, please generate the a `TELEGRAM BOT API KEY` and another one for `THENTIC`. You can fin the link [here](https://thentic.gitbook.io/api-docs/).
+1. In order to your App to run, please generate the a `TELEGRAM BOT API KEY` and another one for `THENTIC`.
+2. Add them in keys.py file.
+
+You can find more info about THENTIC API KEY [here](https://thentic.gitbook.io/api-docs/).
+
+You can find more info about TELEGRAM API KEY [here](https://tutorial.cytron.io/2021/09/01/how-to-create-a-telegram-bot-get-the-api-key-and-chat-id/).
 
 # Functionality
 
